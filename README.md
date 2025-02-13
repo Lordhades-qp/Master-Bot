@@ -1,30 +1,27 @@
  # Master Bot 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Master-+-Bot★⃝•;MWHATSAPP+BOT;DEVELOPED+BY+MASTERMIND." alt="Typing SVG" /></a>
+
+## ![images](https://github.com/user-attachments/assets/4ddf0053-2e3b-4e1c-8c46-4600f2297991)
+
+----
+
+
+font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Master-+-Bot★⃝•;MWHATSAPP+BOT;DEVELOPED+BY+MASTERMIND." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="![images](https://github.com/user-attachments/assets/e78fb6e1-cad7-4360-8946-a7ba469ed86b)
 "/> 
-href="https://github.com/lordhades-qp/followers"><img title="Followers" src="https://img.shields.io/github/followers/lordhades-qp?color=red&style=flat-square"></a>
-<a href="https://github.com/lordhades-qp/Master_Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lordhades-qp/Master_Bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/lordhades-qp/Master_Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lordhades-qp/Master_Bot?color=red&style=flat-square"></a>
-<a href="https://github.com/lordhades-qp/Master_Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lordhades-qp/Master_Bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/lordhades-qp/Master_Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/lordhades-qp/Master_Bot?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen-Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/lordhades-qp/Master_Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
 
- ## Master Bot Deployment Methods
+
+## Master Bot Deployment Methods
+
+
 
 ### 1.   THIS REPO
 
 <a href='https://github.com/lordhades-qp/Master Bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+
+
 
 ### 2. GET SESSION ID HERE
 
@@ -32,7 +29,10 @@ href="https://github.com/lordhades-qp/followers"><img title="Followers" src="htt
  
 <a href="https://test-1-1m94.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
+
 ### SERVER 2 
+
+
 ### GET SESSION ID HERE ( Replit) 
 
 <a href="https://replit.com/@iamdeeceex/QueenAnita-Md-session-generator"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
@@ -40,6 +40,7 @@ href="https://github.com/lordhades-qp/followers"><img title="Followers" src="htt
 
 
 ### DEPLOY ON CLEVER CLOUD
+
 
 1. If you don't have an account in Clever Cloud, create one and deploy.
     <br>
