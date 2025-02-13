@@ -3,15 +3,7 @@
 ## ![images](https://github.com/user-attachments/assets/4ddf0053-2e3b-4e1c-8c46-4600f2297991)
 
 ----
-
-
-font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Master-+-Bot★⃝•;MWHATSAPP+BOT;DEVELOPED+BY+MASTERMIND." alt="Typing SVG" /></a>
- </p>
-<p align="center">
-<img src="![images](https://github.com/user-attachments/assets/e78fb6e1-cad7-4360-8946-a7ba469ed86b)
-"/> 
-
-
+ 
 ## Master Bot Deployment Methods
 
 
