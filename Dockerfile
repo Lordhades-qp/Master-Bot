@@ -11,7 +11,7 @@ RUN apt-get update && \
   
 COPY package.json .
   
-RUN gitclone https://github.com/DeeCeeXxx/Queen_Anita_V2
+RUN gitclone https://github.com/lordhades-qp/Master-Bot
 
 RUN yarn install 
 
