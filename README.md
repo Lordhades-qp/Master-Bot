@@ -1,6 +1,6 @@
  # Master Bot 
 
-## ![images](https://github.com/user-attachments/assets/4ddf0053-2e3b-4e1c-8c46-4600f2297991)
+## https://files.catbox.moe/8gxe32.jpg
 
 ----
  
