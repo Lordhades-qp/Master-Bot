@@ -14,4 +14,4 @@ fs.readdir(directoryPath, function (err, files) {
     });
     console.log(`Found ${jsFileCount} .js files in the directory.`);
 });
-//David Cyril
+//𒋲𝑴𝑨𝑺𝑻𝑬𝑹𝑴𝑰𝑵𝑫𒋲
